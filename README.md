@@ -1,5 +1,5 @@
 
-#RUN IN BAT FILE^:
+# RUN IN BAT FILE:
 
 > Y:
 > 
